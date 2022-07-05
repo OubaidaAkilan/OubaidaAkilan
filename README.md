@@ -1,4 +1,4 @@
-# Hi there, My name's Oubaida Akilan 👋
+# Hi there, I'm Oubaida Akilan 👋
 
 <p align="left"> I'm a software developer 💻, with an Electrical Engineering backgroud ⚡.  
 
