@@ -1,6 +1,6 @@
 # Hi there, I'm Oubaida Akilan 👋
 
-<p align="left"> I'm a software developer 💻, with an Electrical Engineering backgroud ⚡.  
+<p align="left"> I'm a Full-Stack developer 💻, with an Electrical Engineering backgroud ⚡.  
 
 </p>  
 
