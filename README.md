@@ -4,7 +4,18 @@
 
 </p>  
 
+<h2> 👩‍💻 About Me </h2>
 
+- 🤩 &nbsp; I love exploring new technologies particularly web and mobile
+- 🎓 &nbsp; Self taught full stack web developer
+- 🌱 &nbsp; JavaScript, ReactJs
+
+
+<h2>🛠 Tech Stack</h2>
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | React | Node.js | Express  | API | Authentication| OAuth | Scss 
+- 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | Mongoose | Sequelize
+- 🔧 &nbsp; Jest 
 
 
 <br>
