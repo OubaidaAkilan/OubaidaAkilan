@@ -10,6 +10,9 @@
 - 🎓 &nbsp; Self taught full stack web developer
 - 🌱 &nbsp; JavaScript, ReactJs
 
+<br>
+<br>
+<br>
 
 <h2>🛠 Tech Stack</h2>
 
