@@ -44,20 +44,11 @@
 <br>
 
 
-
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<a href="https://app.daily.dev/Oubaida996"><img src="https://api.daily.dev/devcards/3082bfff60404670aeeff21c71279859.png?r=864" width="400" alt="Oubaida Akilan's Dev Card"/></a>
 
 <h3 >Lets Become Internet Friends:</h3>
 <div align="left">
-<p><a href="https://www.linkedin.com/in/oubaida-akilan-312470120/" target="blank"><img align="center" src="https://www.svgrepo.com/show/176736/linkedin-social-media.svg" alt="Moath Abu Hamad" height="30" width="40" /></a> <a href="mailto:oubaida.jehad@outlook.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/49695/mail.svg" alt="Moath Abu Hamad" height="30" width="40" /></a></p>
+<p><a href="https://www.linkedin.com/in/oubaida-akilan-312470120/" target="blank"><img align="center" src="https://www.svgrepo.com/show/176736/linkedin-social-media.svg" alt="Oubaida Akilan" height="30" width="40" /></a> <a href="mailto:oubaida.jehad@outlook.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/49695/mail.svg" alt="Moath Abu Hamad" height="30" width="40" /></a></p>
 </div>
 
 <!--
