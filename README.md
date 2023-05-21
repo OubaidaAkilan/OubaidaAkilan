@@ -31,20 +31,20 @@
 <br>
 <br>
  
-![Top Langs](https://github-readme-stats.vercel.app/api?username=Oubaida996&show_icons=true&theme=light"width='410')
+![Top Langs](https://github-readme-stats.vercel.app/api?username=Oubaidaakilan&show_icons=true&theme=light"width='410')
 
 <br>
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oubaida996&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oubaidaakilan&layout=compact)
 
 <br>
 <br>
 <br>
 
 
-<a href="https://app.daily.dev/Oubaida996"><img src="https://api.daily.dev/devcards/3082bfff60404670aeeff21c71279859.png?r=864" width="400" alt="Oubaida Akilan's Dev Card"/></a>
+<a href="https://app.daily.dev/Oubaidaakilan"><img src="https://api.daily.dev/devcards/3082bfff60404670aeeff21c71279859.png?r=864" width="400" alt="Oubaida Akilan's Dev Card"/></a>
 
 <h3 >Lets Become Internet Friends:</h3>
 <div align="left">
@@ -52,7 +52,7 @@
 </div>
 
 <!--
-**Oubaida996/Oubaida996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Oubaidaakilan/Oubaidaakilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
