@@ -38,6 +38,8 @@
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oubaidaakilan&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oubaidaakilan)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br>
 <br>
