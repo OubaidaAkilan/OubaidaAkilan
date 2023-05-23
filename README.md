@@ -31,7 +31,7 @@
 <br>
 <br>
  
-![Top Langs](https://github-readme-stats.vercel.app/api?username=Oubaidaakilan&show_icons=true&theme=light"width='410')
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oubaidaakilan)](https://git.io/streak-stats)
 
 <br>
 <br>
