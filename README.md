@@ -31,7 +31,7 @@
 <br>
 <br>
  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oubaidaakilan&hide_border=true&locale=ar&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oubaidaakilan&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CSat&card_width=505)](https://git.io/streak-stats)
 
 <br>
 <br>
