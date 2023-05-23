@@ -31,7 +31,7 @@
 <br>
 <br>
  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oubaidaakilan)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oubaidaakilan&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 <br>
 <br>
