@@ -1,4 +1,4 @@
-<h1 align="left" > 
+<h1 align="center" > 
 
  <img src="https://github.com/OubaidaAkilan/OubaidaAkilan/blob/main/hellothere.svg" width="600px">
 
