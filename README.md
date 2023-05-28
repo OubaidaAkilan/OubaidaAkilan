@@ -7,9 +7,10 @@
 <h1> 
 
 <p align="left"> 
- I'm a Full-Stack developer 💻, with an Electrical Engineering backgroud ⚡.  
-</p>  
  <img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="55px">
+ I'm a Full-Stack Developer 💻, with an Electrical Engineering backgroud ⚡.  
+</p>  
+ 
  
  <img  align="right" src="https://github.com/OubaidaAkilan/OubaidaAkilan/blob/main/githubImg.jpeg" width="400px">
 </h1>
