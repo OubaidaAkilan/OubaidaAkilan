@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200">
+  <style>
+    @keyframes twinkle {
+      0% { opacity: 1; }
+      50% { opacity: 0.5; }
+      100% { opacity: 1; }
+    }
+
+    .star {
+      fill: silver;
+      animation: twinkle 1s infinite;
+      animation-direction: alternate;
+    }
+
+    .falling-star {
+      animation: fall 3s linear infinite, move 3s linear infinite;
+    }
+
+    @keyframes fall {
+      0% { transform: translate(0, -100px); }
+      100% { transform: translate(0, 300px); }
+    }
+    
+    @keyframes move {
+      0% { transform: translate(0, 0); }
+      50% { transform: translateX(-100px) translateY(50px); }
+      100% { transform: translateX(100px) translateY(100px); }
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00b8ff" />
+      <stop offset="100%" stop-color="#007bff" />
+    </linearGradient>
+  </defs>
+
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="url(#textGradient)" font-size="36" font-weight="bold">Hello there, I'm Oubaida Akilan</text>
+
+  <g transform="translate(-50, -100)">
+    <path class="star falling-star" d="M0 -4.5 1.5 -1.44 4.72 -1.03 2.53 0.32 3.01 2.57 0 1.62 -3.01 2.57 -2.53 0.32 -4.72 -1.03 -1.5 -1.44 0 -4.5 Z" />
+  </g>
+    <g transform="translate(50, 100)">
+    <path class="star falling-star" d="M0 -4.5 1.5 -1.44 4.72 -1.03 2.53 0.32 3.01 2.57 0 1.62 -3.01 2.57 -2.53 0.32 -4.72 -1.03 -1.5 -1.44 0 -4.5 Z" />
+  </g>
+      <g transform="translate(300, -50)">
+    <path class="star falling-star" d="M0 -4.5 1.5 -1.44 4.72 -1.03 2.53 0.32 3.01 2.57 0 1.62 -3.01 2.57 -2.53 0.32 -4.72 -1.03 -1.5 -1.44 0 -4.5 Z" />
+  </g>
+
+</svg>
