@@ -4,7 +4,7 @@
 
 </h1>
 <h1 align="right" > 
-<img src="https://github.com/OubaidaAkilan/OubaidaAkilan/blob/main/github-img.jpeg" width="400px">
+<img src="https://github.com/OubaidaAkilan/OubaidaAkilan/blob/main/githubImg.jpeg" width="400px">
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="55px">
 
 </h1>
