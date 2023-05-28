@@ -1,8 +1,7 @@
 <h1 align="center"> 
 <img src="https://github.com/OubaidaAkilan/OubaidaAkilan/blob/main/hellothere.svg" width="600px"></h1>
-<h1 align="center">
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="55px">
-</h1>
+
 
 <p align="left"> I'm a Full-Stack developer 💻, with an Electrical Engineering backgroud ⚡.  
 
