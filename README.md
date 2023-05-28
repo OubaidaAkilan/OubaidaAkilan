@@ -1,7 +1,7 @@
 <h1 align="left" > 
 
  <img src="https://github.com/OubaidaAkilan/OubaidaAkilan/blob/main/hellothere.svg" width="600px">
-
+<img src="https://github.com/OubaidaAkilan/OubaidaAkilan/blob/main/github-img.jpeg" width="600px">
 </h1>
 <h1 align="right" > 
 
