@@ -298,7 +298,21 @@
 
 <h3 >Lets Become Internet Friends:</h3>
 <div align="left">
+  <a href="mailto:oubaida.jehad@outlook.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/outlook-2e3440.svg?&style=for-the-badge&logo=outlook&logoColor=D14836">
+      <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/outlook-eceff4.svg?&style=for-the-badge&logo=outlook&logoColor=D14836">
+      <img alt="outlook" src="https://img.shields.io/badge/outlook-eceff4.svg?&style=for-the-badge&logo=outlook&logoColor=D14836">
+    </picture>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/oubaidaakilan/" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/linkedin-2e3440.svg?&style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+      <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/linkedin-eceff4.svg?&style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+      <img alt="LindedIn" src="https://img.shields.io/badge/linkedin-eceff4.svg?&style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+    </picture>
+  </a>&nbsp;
 <!--  <img  align="right" src="https://github.com/OubaidaAkilan/OubaidaAkilan/blob/main/githubImg.jpeg" width="400px"> -->
-<p><a href="https://www.linkedin.com/in/oubaida-akilan-312470120/" target="blank"><img align="center" src="https://www.svgrepo.com/show/176736/linkedin-social-media.svg" alt="Oubaida Akilan" height="30" width="40" /></a> <a href="mailto:oubaida.jehad@outlook.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/49695/mail.svg" alt="Moath Abu Hamad" height="30" width="40" /></a></p>
+
 </div>
 
