@@ -18,8 +18,6 @@
 <details>
   <summary><b>Things I use a lot now</b></summary>
   <br/>
-
-
 <picture>
   <!-- JavaScript -->
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-2e3440.svg?&logo=javascript&logoColor=f7df1e">
@@ -47,7 +45,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MongoDB-eceff4.svg?&logo=mongodb&logoColor=47A248">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-2e3440.svg?&logo=mongodb&logoColor=47A248">
 </picture>
-<picture>
+
 
  <picture>
   <!-- Mongoose Icon -->
