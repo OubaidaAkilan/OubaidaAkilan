@@ -276,35 +276,22 @@
  <br>
    <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=oubaidaakilan&layout=compact" width="400px">
    <br/>
- <picture>
+
+ </details>
+
+<div>
+<a href="https://app.daily.dev/Oubaidaakilan"><img src="https://api.daily.dev/devcards/3082bfff60404670aeeff21c71279859.png?r=864" width="400" alt="Oubaida Akilan's Dev Card"/>
+ </a>
+ <br/>
+ <br/>
+  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oubaidaakilan&theme=nord_dark">
   <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oubaidaakilan&theme=nord_bright">
   <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oubaidaakilan&theme=nord_dark">
 </picture>
- </details>
-
- 
- 
+</div>
 
 
- 
-
-
-
-<br>
-<br>
-<br>
-
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oubaidaakilan)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-<br>
-<br>
-<br>
-
-
-<a href="https://app.daily.dev/Oubaidaakilan"><img src="https://api.daily.dev/devcards/3082bfff60404670aeeff21c71279859.png?r=864" width="400" alt="Oubaida Akilan's Dev Card"/></a>
 
 <h3 >Lets Become Internet Friends:</h3>
 <div align="left">
