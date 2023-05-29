@@ -273,11 +273,12 @@
 <details>
   <summary><b>Languages stats</b></summary>
   <br/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oubaidaakilan&layout=compact)
- <br/>
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oubaidaakilan&hide_border=true&exclude_days=Fri&card_width=505&theme=nord_dark)](https://git.io/streak-stats)
- 
 
+
+<!--   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oubaidaakilan&layout=compact)
+
+ <br/>
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oubaidaakilan&hide_border=true&exclude_days=Fri&card_width=505&theme=nord_dark)](https://git.io/streak-stats) -->
  
 
 <!--   <picture align="left">
@@ -301,13 +302,13 @@
 </details>
 
 
-<!-- <details>
+<details>
   <summary><b>👩‍💻 Languages stats</b></summary>
     <img   src="http://github-readme-streak-stats.herokuapp.com?user=oubaidaakilan&hide_border=true&exclude_days=Fri&card_width=505)](https://git.io/streak-stats" width="400px">
  <br>
    <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=oubaidaakilan&layout=compact" width="400px">
   <br/>
- </details> -->
+ </details>
 
  
  
