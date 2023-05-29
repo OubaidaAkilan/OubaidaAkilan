@@ -1,13 +1,7 @@
 <h1 align="center" > 
 
  <img src="https://github.com/OubaidaAkilan/OubaidaAkilan/blob/main/hellothere.svg" width="600px">
-<div>
 
-<a align="right" href="https://app.daily.dev/Oubaidaakilan"><img src="https://api.daily.dev/devcards/3082bfff60404670aeeff21c71279859.png?r=864" width="400" alt="Oubaida Akilan's Dev Card"/>
- </a>
-
-
-</div>
 </h1>
 
 <div>
@@ -15,6 +9,10 @@
 
 <p align="left"> 
  <img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="55px">
+ <div>
+<a align="right" href="https://app.daily.dev/Oubaidaakilan"><img src="https://api.daily.dev/devcards/3082bfff60404670aeeff21c71279859.png?r=864" width="55px" alt="Oubaida Akilan's Dev Card"/>
+ </a>
+</div>
  I'm a Full-Stack Developer 💻, with an Electrical Engineering backgroud ⚡.  
 </p>  
  
