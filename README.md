@@ -278,10 +278,9 @@
     <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oubaidaakilan&theme=nord_bright">
     <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oubaidaakilan&theme=nord_dark">
   </picture>
- 
   <picture align="right">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=oubaidaakilan&theme=nord_dark">
-    <source media="(prefers-color-scheme: light)"srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=oubaidaakilan&theme=nord_bright">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oubaidaakilan&theme=nord_dark">
+    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oubaidaakilan&theme=nord_bright">
     <img alt="Most commit languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oubaidaakilan&theme=nord_dark">
   </picture>
 </details>
@@ -291,6 +290,7 @@
   <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oubaidaakilan&theme=nord_bright">
   <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oubaidaakilan&theme=nord_dark">
 </picture>
+
 </details>
 
 <!-- <details>
