@@ -277,14 +277,22 @@
 <br>
 <h2>👩‍💻 languages stats</h2>
 <br>
- 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oubaidaakilan&hide_border=true&exclude_days=Fri&card_width=505)](https://git.io/streak-stats)
+ <h1  > 
+ <p align="left">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oubaidaakilan&hide_border=true&exclude_days=Fri&card_width=505)](https://git.io/streak-stats)
+ </p>
+
+ <p align="right">
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oubaidaakilan&layout=compact)
+ </p>
+</h1>
+
 
 <br>
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oubaidaakilan&layout=compact)
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oubaidaakilan)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
