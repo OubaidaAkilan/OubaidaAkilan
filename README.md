@@ -285,7 +285,7 @@
   <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oubaidaakilan&theme=nord_bright">
   <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oubaidaakilan&theme=nord_dark">
 </picture>
-<a align="right" href="https://app.daily.dev/Oubaidaakilan"><img src="https://api.daily.dev/devcards/3082bfff60404670aeeff21c71279859.png?r=864" width="200" alt="Oubaida Akilan's Dev Card"/>
+<a align="right" href="https://app.daily.dev/Oubaidaakilan"><img src="https://api.daily.dev/devcards/3082bfff60404670aeeff21c71279859.png?r=864" width="400" alt="Oubaida Akilan's Dev Card"/>
  </a>
 
 
