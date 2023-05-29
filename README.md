@@ -16,11 +16,9 @@
  
  
 <a href="https://app.daily.dev/OubaidaAkilan">
- <img src="https://api.daily.dev/devcards/3082bfff60404670aeeff21c71279859.png?r=lan" width="400" alt="Oubaida Akilan's Dev Card"/>
+ <img align="right" src="https://api.daily.dev/devcards/3082bfff60404670aeeff21c71279859.png?r=lan" width="400" alt="Oubaida Akilan's Dev Card"/>
  </a>
-<!-- <a  href="https://app.daily.dev/Oubaidaakilan">
-  <img align="right" src="https://api.daily.dev/devcards/3082bfff60404670aeeff21c71279859.png?r=852" width="400px" alt="Oubaida Akilan's Dev Card"/>
- </a> -->
+
 
 </h1>
 
