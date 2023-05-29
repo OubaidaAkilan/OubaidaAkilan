@@ -280,9 +280,9 @@
 <details>
   <summary><b>Languages stats</b></summary>
  <br/>
-    <img   src="http://github-readme-streak-stats.herokuapp.com?user=oubaidaakilan&hide_border=true&exclude_days=Fri&card_width=505)](https://git.io/streak-stats" width="400px">
+    <img   src="http://github-readme-streak-stats.herokuapp.com?user=oubaidaakilan&theme=dark&hide_border=true&exclude_days=Fri&card_width=505)](https://git.io/streak-stats" width="400px">
  <br>
-   <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=oubaidaakilan&layout=compact" width="400px">
+   <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=oubaidaakilan&theme=dark&layout=compact" width="400px">
    <br/>
    <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oubaidaakilan&theme=nord_dark">
