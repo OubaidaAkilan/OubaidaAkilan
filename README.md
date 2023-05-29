@@ -278,20 +278,21 @@
     <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oubaidaakilan&theme=nord_bright">
     <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oubaidaakilan&theme=nord_dark">
   </picture>
+ <br/>
   <picture align="right">
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oubaidaakilan&theme=nord_dark">
     <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oubaidaakilan&theme=nord_bright">
     <img alt="Most commit languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oubaidaakilan&theme=nord_dark">
   </picture>
-</details>
-
-<picture>
+ <br/>
+ <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oubaidaakilan&theme=nord_dark">
   <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oubaidaakilan&theme=nord_bright">
   <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oubaidaakilan&theme=nord_dark">
 </picture>
-
+ 
 </details>
+
 
 <!-- <details>
   <summary><b>👩‍💻 Languages stats</b></summary>
@@ -304,7 +305,7 @@
  
  
 
-<!--   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oubaidaakilan&hide_border=true&exclude_days=Fri&card_width=505)](https://git.io/streak-stats) -->
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oubaidaakilan&hide_border=true&exclude_days=Fri&card_width=505&theme=nord_dark)](https://git.io/streak-stats)
  
 
  
