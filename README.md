@@ -296,7 +296,7 @@
 
 
 
-<h3 > <img  align="right" src="https://github.com/OubaidaAkilan/OubaidaAkilan/blob/main/githubImg.jpeg" width="40px"> Lets Become Internet Friends:</h3>
+<h3 > <img  src="https://github.com/OubaidaAkilan/OubaidaAkilan/blob/main/githubImg.jpeg" width="400px"> Lets Become Internet Friends:</h3>
 <div align="left">
   <a href="mailto:oubaida.jehad@outlook.com">
 <picture>
