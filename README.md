@@ -298,7 +298,7 @@
 
 <h3 >Lets Become Internet Friends:</h3>
 <div align="left">
- <img  align="right" src="https://github.com/OubaidaAkilan/OubaidaAkilan/blob/main/githubImg.jpeg" width="400px">
+<!--  <img  align="right" src="https://github.com/OubaidaAkilan/OubaidaAkilan/blob/main/githubImg.jpeg" width="400px"> -->
 <p><a href="https://www.linkedin.com/in/oubaida-akilan-312470120/" target="blank"><img align="center" src="https://www.svgrepo.com/show/176736/linkedin-social-media.svg" alt="Oubaida Akilan" height="30" width="40" /></a> <a href="mailto:oubaida.jehad@outlook.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/49695/mail.svg" alt="Moath Abu Hamad" height="30" width="40" /></a></p>
 </div>
 
