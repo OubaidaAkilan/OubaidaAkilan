@@ -277,7 +277,7 @@
   </picture>
  </details>
   
-<details>
+<details open>
   <summary><b>Languages stats</b></summary>
  <br/>
     <img   src="http://github-readme-streak-stats.herokuapp.com?user=oubaidaakilan&theme=dark&hide_border=false&exclude_days=Fri&card_width=505)](https://git.io/streak-stats" width="400px">
