@@ -8,9 +8,9 @@
 <h1> 
 
 <p align="left"> 
- <img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="55px">
+ 
 
- I'm a Full-Stack Developer 💻, with an Electrical Engineering backgroud ⚡.  
+<img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="55px"> I'm a Full-Stack Developer 💻, with an Electrical Engineering backgroud ⚡.  
 </p>  
  
  
