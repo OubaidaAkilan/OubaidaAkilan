@@ -299,11 +299,11 @@
 <h3 >Lets Become Internet Friends:</h3>
 <div align="left">
   <a href="mailto:oubaida.jehad@outlook.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/outlook-2e3440.svg?&style=for-the-badge&logo=outlook&logoColor=D14836">
-      <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/outlook-eceff4.svg?&style=for-the-badge&logo=outlook&logoColor=D14836">
-      <img alt="outlook" src="https://img.shields.io/badge/outlook-eceff4.svg?&style=for-the-badge&logo=outlook&logoColor=D14836">
-    </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Outlook-2e3440.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=0078D4">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Outlook-eceff4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=0078D4">
+  <img alt="Outlook" src="https://img.shields.io/badge/Outlook-eceff4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=0078D4">
+</picture>
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/oubaidaakilan/" target="_blank">
     <picture>
