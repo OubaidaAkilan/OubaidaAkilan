@@ -279,14 +279,14 @@
 <br>
  <h1  > 
  
-   <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oubaidaakilan&layout=compact" width="400px">
+   <img  align="left" src="http://github-readme-streak-stats.herokuapp.com?user=oubaidaakilan&hide_border=true&exclude_days=Fri&card_width=505)](https://git.io/streak-stats" width="400px">
 <!--   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oubaidaakilan&hide_border=true&exclude_days=Fri&card_width=505)](https://git.io/streak-stats) -->
  
    <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oubaidaakilan&layout=compact" width="400px">
 
- <p align="right">
+ 
 <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oubaidaakilan&layout=compact) -->
- </p>
+ 
 </h1>
 
 
