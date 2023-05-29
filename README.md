@@ -18,12 +18,7 @@
 <details>
   <summary><b>Things I use a lot now</b></summary>
   <br/>
-  <style>
-  .icon {
-    display: inline-block;
-    margin-right: 10px;
-  }
-</style>
+
 
 <picture>
   <!-- JavaScript -->
