@@ -268,7 +268,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Docker-eceff4.svg?&logo=docker&logoColor=2496ED">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2e3440.svg?&logo=docker&logoColor=2496ED">
   </picture>
- <details/>
+ </details>
   
   
   
