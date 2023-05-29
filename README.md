@@ -226,49 +226,49 @@
  
  
  <details>
-  <summary><b>Things I'm interested in</b></summary>
-  <br/>
-   <picture>
-  <!-- Next.js Icon -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Next.js-2e3440.svg?&logo=next.js&logoColor=white">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Next.js-eceff4.svg?&logo=next.js&logoColor=white">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-2e3440.svg?&logo=next.js&logoColor=white">
-</picture>
+    <summary><b>Things I'm interested in</b></summary>
+    <br/>
+     <picture>
+    <!-- Next.js Icon -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Next.js-2e3440.svg?&logo=next.js&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Next.js-eceff4.svg?&logo=next.js&logoColor=white">
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-2e3440.svg?&logo=next.js&logoColor=white">
+  </picture>
 
-<picture>
-  <!-- TypeScript Icon -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-2e3440.svg?&logo=typescript&logoColor=3278c7">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/TypeScript-eceff4.svg?&logo=typescript&logoColor=3278c7">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-2e3440.svg?&logo=typescript&logoColor=3278c7">
-</picture>
-  <br/>
   <picture>
-  <!-- Python Icon -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-2e3440.svg?&logo=python&logoColor=3776AB">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-eceff4.svg?&logo=python&logoColor=3776AB">
-  <img alt="Python" src="https://img.shields.io/badge/Python-2e3440.svg?&logo=python&logoColor=3776AB">
-</picture>
+    <!-- TypeScript Icon -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-2e3440.svg?&logo=typescript&logoColor=3278c7">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/TypeScript-eceff4.svg?&logo=typescript&logoColor=3278c7">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-2e3440.svg?&logo=typescript&logoColor=3278c7">
+  </picture>
+    <br/>
+    <picture>
+    <!-- Python Icon -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-2e3440.svg?&logo=python&logoColor=3776AB">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-eceff4.svg?&logo=python&logoColor=3776AB">
+    <img alt="Python" src="https://img.shields.io/badge/Python-2e3440.svg?&logo=python&logoColor=3776AB">
+  </picture>
 
-<picture>
-  <!-- Django Icon -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Django-2e3440.svg?&logo=django&logoColor=092E20">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Django-eceff4.svg?&logo=django&logoColor=092E20">
-  <img alt="Django" src="https://img.shields.io/badge/Django-2e3440.svg?&logo=django&logoColor=092E20">
-</picture>
-<picture>
- <!-- Flask Icon -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Flask-000000.svg?&logo=flask&logoColor=white">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Flask-000000.svg?&logo=flask&logoColor=black">
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?&logo=flask&logoColor=black">
-</picture>
-  <br/>
-<picture>
-  <!-- Docker Icon -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Docker-2e3440.svg?&logo=docker&logoColor=2496ED">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Docker-eceff4.svg?&logo=docker&logoColor=2496ED">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2e3440.svg?&logo=docker&logoColor=2496ED">
-</picture>
-  <details/>
+  <picture>
+    <!-- Django Icon -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Django-2e3440.svg?&logo=django&logoColor=092E20">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Django-eceff4.svg?&logo=django&logoColor=092E20">
+    <img alt="Django" src="https://img.shields.io/badge/Django-2e3440.svg?&logo=django&logoColor=092E20">
+  </picture>
+  <picture>
+   <!-- Flask Icon -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Flask-000000.svg?&logo=flask&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Flask-000000.svg?&logo=flask&logoColor=black">
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?&logo=flask&logoColor=black">
+  </picture>
+    <br/>
+  <picture>
+    <!-- Docker Icon -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Docker-2e3440.svg?&logo=docker&logoColor=2496ED">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Docker-eceff4.svg?&logo=docker&logoColor=2496ED">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2e3440.svg?&logo=docker&logoColor=2496ED">
+  </picture>
+ <details/>
   
   
   
