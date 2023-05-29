@@ -296,7 +296,7 @@
 
 
 
-<h3 >Lets Become Internet Friends:</h3>
+<h3 > <img  align="right" src="https://github.com/OubaidaAkilan/OubaidaAkilan/blob/main/githubImg.jpeg" width="40px"> Lets Become Internet Friends:</h3>
 <div align="left">
   <a href="mailto:oubaida.jehad@outlook.com">
 <picture>
@@ -312,7 +312,7 @@
       <img alt="LindedIn" src="https://img.shields.io/badge/linkedin-eceff4.svg?&style=for-the-badge&logo=linkedin&logoColor=0A66C2">
     </picture>
   </a>&nbsp;
-<!--  <img  align="right" src="https://github.com/OubaidaAkilan/OubaidaAkilan/blob/main/githubImg.jpeg" width="400px"> -->
+
 
 </div>
 
