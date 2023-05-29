@@ -270,19 +270,35 @@
   </picture>
  </details>
   
-  
- <br/>
-<!-- <br/>
-<br/>
-<br/>
-<br/> -->
 <details>
-  <summary><b>👩‍💻 languages stats</b></summary>
+  <summary><b>Languages stats</b></summary>
+  <br/>
+  <picture align="left">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oubaidaakilan&theme=nord_dark">
+    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oubaidaakilan&theme=nord_bright">
+    <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oubaidaakilan&theme=nord_dark">
+  </picture>
+  <picture align="right">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oubaidaakilan&theme=nord_dark">
+    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oubaidaakilan&theme=nord_bright">
+    <img alt="Most commit languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oubaidaakilan&theme=nord_dark">
+  </picture>
+</details>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oubaidaakilan&theme=nord_dark">
+  <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oubaidaakilan&theme=nord_bright">
+  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oubaidaakilan&theme=nord_dark">
+</picture>
+</details>
+
+<!-- <details>
+  <summary><b>👩‍💻 Languages stats</b></summary>
     <img   src="http://github-readme-streak-stats.herokuapp.com?user=oubaidaakilan&hide_border=true&exclude_days=Fri&card_width=505)](https://git.io/streak-stats" width="400px">
  <br>
    <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=oubaidaakilan&layout=compact" width="400px">
   <br/>
- </details>
+ </details> -->
 
  
  
@@ -316,17 +332,3 @@
 <p><a href="https://www.linkedin.com/in/oubaida-akilan-312470120/" target="blank"><img align="center" src="https://www.svgrepo.com/show/176736/linkedin-social-media.svg" alt="Oubaida Akilan" height="30" width="40" /></a> <a href="mailto:oubaida.jehad@outlook.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/49695/mail.svg" alt="Moath Abu Hamad" height="30" width="40" /></a></p>
 </div>
 
-<!--
-**Oubaidaakilan/Oubaidaakilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
