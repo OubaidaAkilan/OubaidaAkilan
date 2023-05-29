@@ -18,26 +18,54 @@
 <details>
   <summary><b>Things I use a lot now</b></summary>
   <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-2e3440.svg?&logo=typescript&logoColor=3278c7">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/TypeScript-eceff4.svg?&logo=typescript&logoColor=3278c7">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-2e3440.svg?&logo=typescript&logoColor=3278c7">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MongoDB-2e3440.svg?&logo=mongodb&logoColor=00ed64">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/MongoDB-eceff4.svg?&logo=mongodb&logoColor=00ed64">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-eceff4.svg?&logo=mongodb&logoColor=00ed64">
-  </picture>
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/NodeJS-2e3440.svg?&logo=node.js&logoColor=339933">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/NodeJS-eceff4.svg?&logo=node.js&logoColor=339933">
-    <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-eceff4.svg?&logo=node.js&logoColor=339933">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/javascript-2e3440.svg?&logo=poetry&logoColor=018ce1">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/javascript-eceff4.svg?&logo=poetry&logoColor=018ce1">
-    <img alt="java script" src="https://img.shields.io/badge/Poetry-eceff4.svg?&logo=javascript&logoColor=018ce1">
-  </picture>
+  <style>
+  .icon {
+    display: inline-block;
+    margin-right: 10px;
+  }
+</style>
+
+<picture>
+  <!-- JavaScript -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-2e3440.svg?&logo=javascript&logoColor=f7df1e">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JavaScript-eceff4.svg?&logo=javascript&logoColor=f7df1e">
+  <img class="icon" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-2e3440.svg?&logo=javascript&logoColor=f7df1e">
+</picture>
+
+<picture>
+  <!-- TypeScript -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-2e3440.svg?&logo=typescript&logoColor=3278c7">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/TypeScript-eceff4.svg?&logo=typescript&logoColor=3278c7">
+  <img class="icon" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-2e3440.svg?&logo=typescript&logoColor=3278c7">
+</picture>
+
+<picture>
+  <!-- Dart -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Dart-2e3440.svg?&logo=dart&logoColor=0175c2">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Dart-eceff4.svg?&logo=dart&logoColor=0175c2">
+  <img class="icon" alt="Dart" src="https://img.shields.io/badge/Dart-2e3440.svg?&logo=dart&logoColor=0175c2">
+</picture>
+
+<picture>
+  <!-- SQL -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SQL-2e3440.svg?&logo=postgresql&logoColor=336791">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/SQL-eceff4.svg?&logo=postgresql&logoColor=336791">
+  <img class="icon" alt="SQL" src="https://img.shields.io/badge/SQL-2e3440.svg?&logo=postgresql&logoColor=336791">
+</picture>
+
+<picture>
+  <!-- HTML -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HTML-2e3440.svg?&logo=html5&logoColor=e34c26">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HTML-eceff4.svg?&logo=html5&logoColor=e34c26">
+  <img class="icon" alt="HTML" src="https://img.shields.io/badge/HTML-2e3440.svg?&logo=html5&logoColor=e34c26">
+</picture>
+
+<picture>
+  <!-- CSS -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS-2e3440.svg?&logo=css3&logoColor=1572b6">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CSS-eceff4.svg?&logo=css3&logoColor=1572b6">
+  <img class="icon" alt="CSS" src="https://img.shields.io/badge/CSS-2e3440.svg?&logo=css3&logoColor=1572b6">
+</picture>
   <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-2e3440.svg?&logo=react&logoColor=4995ab">
