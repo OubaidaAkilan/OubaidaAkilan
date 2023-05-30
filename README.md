@@ -282,9 +282,10 @@
  <br/>
     <img   src="http://github-readme-streak-stats.herokuapp.com?user=oubaidaakilan&theme=dark&hide_border=false&exclude_days=Fri&card_width=505)](https://git.io/streak-stats" width="400px">
  <br>
-<!--    <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=oubaidaakilan&theme=dark&layout=compact" width="400px"> -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oubaidaakilan&theme=dark&layout=compact)
+   <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=oubaidaakilan&theme=dark&layout=compact" width="400px">
+
    <br/>
+
    <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oubaidaakilan&theme=nord_dark">
   <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oubaidaakilan&theme=nord_bright">
