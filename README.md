@@ -282,11 +282,8 @@
  <br/>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=oubaidaakilan&theme=dark&hide_border=false&exclude_days=Fri&card_width=505)](https://git.io/streak-stats" width="400px">
  <br>
- <a href="https://github.com/oubaidaakilan">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oubaidaakilan&theme=dark&layout=compact" alt="Top Languages" style="width: 400px;">
-</a>
 <!--    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oubaidaakilan&theme=dark&layout=compact" width="400px"> -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oubaidaakilan&theme=dark&layout=compact)](https://github.com/oubaidaakilan"> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oubaidaakilan&theme=dark&card_width=505&layout=compact)](https://github.com/oubaidaakilan"> -->
 
    <br/>
 
