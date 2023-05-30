@@ -284,7 +284,7 @@
  <br/>
 <!--    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oubaidaakilan&theme=dark&layout=compact" width="400px"> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oubaidaakilan&theme=dark&layout=compact&card_width=400)](https://github.com/oubaidaakilan">
-<img src="https://github-readme-stats.vercel.app/api?username=oubaidaakilan&show_icons=true&theme=dark&card_width=400)](https://github.com/oubaidaakilan" >
+<img src="https://github-readme-stats.vercel.app/api?username=oubaidaakilan&show_icons=true&theme=dark&card_width=200)](https://github.com/oubaidaakilan" >
    <br/>
 
    <picture>
